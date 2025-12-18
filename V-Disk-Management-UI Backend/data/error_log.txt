@@ -1,0 +1,1 @@
+// Server currently prints errors to stderr; integrate file logging here if desired

@@ -1,0 +1,1 @@
+// Data directory is optional; persistence path is controlled by DATA_FILE env (default: disk_state.json)
